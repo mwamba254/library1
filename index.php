@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Library Homepage</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="index">
+
+  <div class="container">
+
+    <!-- Header Section -->
+    <header class="header">
+      <h1>Library Management System</h1>
+      <p>Your gateway to a world of knowledge and adventure.</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav">
+      <ul>
+        <li><a href="index.php" class="active">Home</a></li>
+        <li><a href="login.php">Login</a></li>
+        <li><a href="register.php">Register</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <h2>Welcome to the Library</h2>
+      <p>Explore our vast collection of books, journals, and digital resources.</p>
+      <p>Access everything from classic literature to the latest research.</p>
+      <p>Join today and start your journey into the world of learning and discovery.</p>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>&copy; 2025 Library Management System. All rights reserved.</p>
+    </footer>
+
+  </div>
+
+</body>
+</html>
